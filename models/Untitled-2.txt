@@ -1,5 +1,0 @@
-
-
-python milestone1_preprocessing_eda.py
-
-streamlit run app.py
